@@ -15,10 +15,10 @@ You can find the code for this project named as ReadyModel.ipynb
 ## Local Setup
 ## Installation
 To follow this project, please install the following locally:
-• [Jupyter Notebook{
-• [Python Packages]
-• [Pandas]
-• [Scikit-learn]
-• [Matplotlib]
-• [Seaborn]
-• [numpy]
+- Jupyter Notebook
+- Python Packages
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- numpy
